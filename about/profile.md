@@ -7,7 +7,7 @@ Zameriavam sa na merateľné výsledky, optimalizáciu nákladov a efektívne st
 - Google Analytics, Tag Manager, Looker Studio
 - Content marketing, SEO, Copywriting
 - Marketing automation: HubSpot, Mailchimp
-- Analýza dát, Power BI, Excel
+- Analýza dát, Power BI, Excel ++
 
 ## 🎓 Certifikáty
 - Google Ads Search Certification
